@@ -28,7 +28,7 @@ Setup Instructions
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/gitlab-to-github-migration.git
+git clone https://github.com/Andriy2025-out/gitlab-to-github-migration.git
 cd gitlab-to-github-migration
 
 2️⃣ Set Up Environment Variables
