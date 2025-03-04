@@ -1,0 +1,3 @@
+https://gitlab.com/inter7163810/Initial.git
+https://gitlab.com/inter7163810/inter_2_script.git
+https://gitlab.com/inter7163810/inter_3_script.git

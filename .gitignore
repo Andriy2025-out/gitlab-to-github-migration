@@ -1,0 +1,35 @@
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore virtual environment directories
+venv/
+env/
+ENV/
+.venv/
+
+# Ignore IDE/editor specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore migration script files
+script_migration_github_gitlab.py
+script_migration_github_gitlab2.py
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Ignore other unnecessary files
+*.sqlite3
+*.db
+
